@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Arsenal 15 16 vh';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Arsenal 15 16 vh'), url('Arsenal 15 16 vh.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Arsenal 15 16 vh';
+    font-weight: 200;
+    color: #0ccac4;
+    font-size: 4rem;
+}
